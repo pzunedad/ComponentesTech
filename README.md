@@ -2,7 +2,7 @@
 
 ## Desarrolladores
 - Pedro Zuñeda Diego
-- Pablo Torres Villar
+
 
 ## Descripción Funcionalidad
 
